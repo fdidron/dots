@@ -1,0 +1,1 @@
+/home/florian/.fzf/shell/key-bindings.fish

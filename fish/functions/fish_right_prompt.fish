@@ -1,0 +1,1 @@
+/home/florian/.config/fisherman/idan/fish_right_prompt.fish
